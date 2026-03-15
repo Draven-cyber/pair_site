@@ -1,0 +1,20 @@
+run = "npm start"
+
+[nix]
+channel = "stable-22_11"
+
+[env]
+PORT = "8000"
+MEGA_EMAIL = "Rithikaimansara25894@gmail.com"
+MEGA_PASSWORD = "Rithika25894#"
+GITHUB_TOKEN = "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"
+GITHUB_REPO = "pair_site"
+GITHUB_OWNER = "Draven-cyber"
+
+[packager]
+language = "nodejs"
+
+[work]
+[work.panel]
+icon = "https://ibb.co/yc1nR55z"  # Add your logo URL here
+title = "Evo MD Guardian"
